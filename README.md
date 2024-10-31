@@ -1,6 +1,6 @@
 # Telegram Resource Monitoring Bot
 
-Bot ini dirancang untuk memantau penggunaan sumber daya server Anda, termasuk CPU dan memori, serta memberikan notifikasi melalui Telegram.
+Bot ini dirancang untuk memantau penggunaan sumber daya server Kalian, termasuk CPU dan memori, serta memberikan notifikasi melalui Telegram.
 
 ## Fitur
 
@@ -10,7 +10,7 @@ Bot ini dirancang untuk memantau penggunaan sumber daya server Anda, termasuk CP
 
 ## Prerequisites
 
-Sebelum menjalankan bot ini, pastikan Anda telah menginstal Python 3.7 atau yang lebih baru di sistem Anda. Anda juga memerlukan beberapa paket yang diperlukan.
+Sebelum menjalankan bot ini, pastikan Kalian telah menginstal Python 3.7 atau yang lebih baru di sistem Kalian. Kalian juga memerlukan beberapa paket yang diperlukan.
 
 ## Instalasi
 
@@ -21,5 +21,12 @@ Sebelum menjalankan bot ini, pastikan Anda telah menginstal Python 3.7 atau yang
    cd Uptime-Bot-Telegram
 
 2. ** Instal Dependensi **
-```Phyton
-pip install python-telegram-bot psutil
+   ```Phyton
+   pip install python-telegram-bot psutil
+
+3. ** Token Chat Bot **
+   Masukan Token Chat Bot Telegram Kalian ke dalam file pythonnya.
+
+4. ** Penggunaan **
+   /Start untuk memulai Bot
+   /Monitor untuk melihat resource usage saat ini ( buat saja command ini pada bot, untuk memudahkan)
