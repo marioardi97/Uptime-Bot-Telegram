@@ -1,3 +1,4 @@
+![uptime](https://github.com/user-attachments/assets/d6b5dbd8-c7fa-44d2-8ece-27abe9a04eb2)
 # Telegram Resource Monitoring Bot
 
 Bot ini dirancang untuk memantau penggunaan sumber daya server Kalian, termasuk CPU dan memori, serta memberikan notifikasi melalui Telegram.
@@ -7,6 +8,7 @@ Bot ini dirancang untuk memantau penggunaan sumber daya server Kalian, termasuk 
 - Memantau penggunaan CPU dan memori.
 - Mengirim notifikasi ke pengguna ketika bot diaktifkan.
 - Memberikan informasi penggunaan sumber daya saat diminta.
+- Memberikan Info ketika penggunaan berlebih dari set treshold
 
 ## Prerequisites
 
