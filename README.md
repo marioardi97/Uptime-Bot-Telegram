@@ -8,7 +8,7 @@ Bot ini dirancang untuk memantau penggunaan sumber daya server Kalian, termasuk 
 - Memantau penggunaan CPU dan memori.
 - Mengirim notifikasi ke pengguna ketika bot diaktifkan.
 - Memberikan informasi penggunaan sumber daya saat diminta.
-- Memberikan Info ketika penggunaan berlebih dari set treshold
+- Memberikan Info ketika penggunaan berlebih dari set treshold (CPU , RAM , DISK , DDOS ATTACK)
 
 ## Prerequisites
 
